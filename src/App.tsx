@@ -1,9 +1,7 @@
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Routes, Route, Link } from "react-router-dom";
 import ListView from "./ListView";
 import GalleryView from "./GalleryView";
 import DetailView from "./DetailView";
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
