@@ -1,4 +1,4 @@
-import { BrowserRouter as Routes, Route, Link } from "react-router-dom";
+import { Routes, Route, Link } from "react-router-dom";
 import ListView from "./ListView";
 import GalleryView from "./GalleryView";
 import DetailView from "./DetailView";
